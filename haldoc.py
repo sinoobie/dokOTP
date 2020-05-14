@@ -91,8 +91,8 @@ while True:
 		os.system('clear')
 		print("""
 		[ Tanya Dokter OTP ]
-		 - By Kang-Newbie -
-
+		 - By -FR13NDS -
+--------------------------------------------
 [ Spam List ]
 1. Alodokter.com
 2. Klikdokter.com
